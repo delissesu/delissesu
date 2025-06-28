@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫 About Me:<br>🔭 Studied Computer Science at University of Jember.<br>🤝 Cheerfully to share my progress in CS.
+🔭 Studied Computer Science at University of Jember.<br>🤝 Cheerfully to share my progress in CS.
 
 
 ## 🌐 Socials:
