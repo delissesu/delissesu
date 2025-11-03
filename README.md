@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Studied Computer Science at University of Jember.<br>🤝 Cheerfully to share my progress in CS.
+🔭 CompSci Student at University of Jember.<br>🤝 Cheerfully to share my progress in CS.<br>'✨Actively Exploring Tech and Development.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delissesu&label=Profile%20views&color=0e75b6&style=flat" alt="delissesu" /> </p>
 
