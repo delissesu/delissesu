@@ -46,7 +46,7 @@
 </td>
 <td width="40%" valign="top">
 <div align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="50" />
+  <img src="https://play.pokemonshowdown.com/sprites/xyani/pikachu.gif" height="50" alt="Pikachu" />
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=delissesu&theme=dark&hide_border=true&include_all_commits=true&count_private=false&title_color=FF69B4&icon_color=FF69B4" />
