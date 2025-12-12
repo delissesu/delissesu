@@ -58,9 +58,9 @@
 
 <br/>
 
-### 📈 Activity Graph
+### 📈 Delion Git Stream
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=delissesu&bg_color=0D1117&color=FF69B4&line=FF69B4&point=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/delissesu/delissesu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
 ### 📊 Weekly Streak
