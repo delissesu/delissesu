@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/delissesu/delissesu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
 </div>
 
-### 📊 Weekly Streak
+### 📊 Grinding Consistency
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=delissesu&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
 </div>
