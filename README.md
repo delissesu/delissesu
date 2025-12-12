@@ -26,6 +26,7 @@
 
 ### 💻 Tech Stack
 <div align="center">
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/javascript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JS" />
   <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -74,9 +75,5 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
   
   <br/><br/>
-  
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=delissesu&icon=1&color=12" />
-  </a>
 
 </div>
