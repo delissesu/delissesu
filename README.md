@@ -18,9 +18,9 @@
 ### 💫 About Me
 **Computer Science Student at University of Jember.**
 
-* 🔭 Leveling up my dev stats, one bug at a time.
-* 🤝 Sprinkling syntax sugar everywhere.
-* ✨ Breaking things just to see how they work.
+* 🔭 Passionate about software development and continuously improving my technical skills.
+* 🤝  Enthusiastic about writing clean, efficient code and collaborating on innovative projects.
+* ✨ Curious problem-solver who enjoys exploring how systems work and building creative solutions.
 
 <br/>
 
