@@ -1,75 +1,112 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello,+I'm+Delion!;+Backend+Enthusiast+and+AI+Explorer" width="100%" />
 
-  <p>
-    <a href="https://linkedin.com/in/adtyadwif"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://github.com/delissesu"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="mailto:21adtydwf@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  </p>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FF69B4&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello,+I'm+Delion!;+Backend+Learner+and+AI+Enthusiast" width="100%" />
 
 <br/>
+
+<a href="https://linkedin.com/in/adtyadwf">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/delissesu">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:21adtydwf@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
 
 <table>
-  <tr>
-    <td width="60%" valign="top">
+<tr>
 
-### About Me
-**Informatics Student at University of Jember.**
+<td width="55%" valign="top">
 
-I am a dedicated self-learner with a deep interest in software architecture and intelligent systems. I focus on building robust backend solutions and exploring the practical applications of Artificial Intelligence.
+<h2>About Me</h2>
 
-* **Backend Development:** Currently strengthening my skills in scalable system design and API development using Go and Python.
-* **AI & Research:** Exploring machine learning models and data processing to solve complex computational problems.
-* **Web3 & Blockchain:** Actively researching decentralized technologies and smart contract fundamentals as my latest technical frontier.
-* **Core Principle:** I prioritize clean, maintainable code and logical problem-solving in every project I undertake.
+<pre>
+Informatics Student at University of Jember
+</pre>
+
+Interested in backend development, software architecture, and intelligent systems. Currently learning how to build scalable applications and explore practical uses of AI in software development.
+
+- Backend systems, API development, and scalable application design.
+- Machine learning, data processing, and computational problem-solving.
+- Web3, decentralized technologies, and smart contract fundamentals.
+- Clean, maintainable, and structured code practices.
 
 <br/>
 
-### Technical Stack
+<h2>Tech Stack</h2>
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,php,cs,go,python,cpp,js,laravel,postgres,tailwind,git,figma" />
+
+</div>
+
+<br/>
+
+<h2>Currently Exploring</h2>
+
+```yaml
+Focus:
+  - Backend Engineering
+  - AI & Machine Learning
+  - Software Architecture
+  - Web3 Fundamentals
+```
+
+</td>
+
+<td width="45%" valign="top">
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JS" />
-  <br/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="Postgres" />
-  <br/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+
+<img src="https://play.pokemonshowdown.com/sprites/xyani/pikachu.gif" height="70" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=delissesu&show_icons=true&theme=dark&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0D1117" width="100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delissesu&theme=dark&hide_border=true&layout=compact&title_color=FF69B4&text_color=ffffff&bg_color=0D1117" width="100%" />
+
 </div>
 
 </td>
-<td width="40%" valign="top">
-<div align="center">
-  <img src="https://play.pokemonshowdown.com/sprites/xyani/pikachu.gif" height="50" alt="Pikachu" />
-</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=delissesu&show_icons=true&theme=dark&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0D1117" alt="Delion's Stats" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delissesu&theme=dark&hide_border=true&layout=compact&title_color=FF69B4&text_color=ffffff&bg_color=0D1117" alt="Top Langs" width="100%" />
-
-</td>
 </tr>
 </table>
 
-<br/>
+---
 
-### Open Source Contributions
+<h2>Contributions</h2>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/delissesu/delissesu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation" />
+
+<img src="https://raw.githubusercontent.com/delissesu/delissesu/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
-### Development Consistency
+---
+
+<h2>Dev Act</h2>
+
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=delissesu&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=delissesu&theme=dark&hide_border=true&background=0D1117&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4" />
+
 </div>
 
-<hr/>
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
 </div>
