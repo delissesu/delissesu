@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/adtyadwf">
+<a href="https://linkedin.com/in/adtydwf">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -31,13 +31,12 @@
 Informatics Student at University of Jember
 </pre>
 
-Interested in backend development, software architecture, and intelligent systems. Currently learning how to build scalable applications and explore practical uses of AI in software development.
+An informatics student deeply interested in backend engineering and artificial intelligence. I am actively learning how to build efficient systems and exploring the practical side of machine learning.
 
-- Backend systems, API development, and scalable application design.
-- Machine learning, data processing, and computational problem-solving.
-- Web3, decentralized technologies, and smart contract fundamentals.
-- Clean, maintainable, and structured code practices.
-
+- **Backend Engineering:** Learning to build robust APIs, manage databases, and understand server-side logic.
+- **Artificial Intelligence:** Exploring data processing and training machine learning models for practical applications.
+- **Competitive Programming:** Honing algorithmic thinking and computational problem-solving skills through coding challenges.
+- **Code Quality:** Striving to write clean, structured, and maintainable code in every project.
 <br/>
 
 <h2>Tech Stack</h2>
